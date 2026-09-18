@@ -1,6 +1,8 @@
 # Biodiversa+ Habitat Pilot: Technical Supplement to Czech Report
 
-This repository contains scripts and workflows developed for the **Biodiversa+ Habitat pilot**. It serves as a **technical supplement** to the *Biodiversa+ Habitat Pilot Czech Report (January 2026)*, documenting Remote Sensing methods for monitoring wetland and grassland ecosystems in the Czechia.
+This repository contains scripts and workflows developed for the [**Biodiversa+ Habitat pilot**](https://www.biodiversa.eu/biodiversity-monitoring/pilots/habitat-pilot/). It serves as a **technical supplement** to the *Biodiversa+ Habitat Pilot Czech Report (January 2026)*, documenting Remote Sensing methods for monitoring wetland and grassland ecosystems in the Czechia.
+
+The full text of the final report is available for download here: [**Remote sensing for habitat monitoring – Habitat Pilot report**](https://www.biodiversa.eu/2026/04/01/habitat-pilot-report/)
 
 ---
 
