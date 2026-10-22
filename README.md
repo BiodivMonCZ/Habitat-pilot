@@ -36,6 +36,6 @@ Validation of Land Cover (LC) and GrasslandType (GT) components (EUNIS 2021 Leve
 
 For technical questions regarding the implementation and workflows, please contact:
 
-* **Vít Ježek** – [@jezekvi-github-link](https://github.com/jezekvi)
+* **Vít Ježek** – [@jezekv-github-link](https://github.com/jezekv)
 * **Jakub Rataj** – [@zbubster-github-link](https://github.com/zbubster)
  
